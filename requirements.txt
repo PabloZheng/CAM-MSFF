@@ -1,0 +1,6 @@
+torch>=1.6.0
+scikit-image==1.15.0
+scikit-learn==1.18.5
+matplotlib==1.15.0
+numpy==1.18.5
+argparse==1.4.0
