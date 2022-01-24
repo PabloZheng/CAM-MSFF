@@ -10,7 +10,7 @@
 
 ![model](./figures/model.png)
 
-### Trainng 
+### Training 
 
 ```python
 pip install -r requirements.txt
